@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "698696370142",
+    "project_id": "authentication-fb98c",
+    "storage_bucket": "authentication-fb98c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698696370142:android:c828240ea932df5e5f7f4f",
+        "android_client_info": {
+          "package_name": "com.example.minggu_11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698696370142-45gvtb5imc8tl6q96e1tcq93no71cqnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXKIIVJb46H8C_eap0GeJCkfcpVmx_I3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698696370142-45gvtb5imc8tl6q96e1tcq93no71cqnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
