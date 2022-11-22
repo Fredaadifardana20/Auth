@@ -75,6 +75,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 decoration: InputDecoration(
                     border: OutlineInputBorder(), labelText: "Username"),
               ),
+              
             ),
             Container(
               padding: EdgeInsets.all(10),
